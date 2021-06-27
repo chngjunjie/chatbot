@@ -1,4 +1,4 @@
-# FullStack Golang Applications
+# Chatbot Applications
 A Realtime chatbot application created with following technology :
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
